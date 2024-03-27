@@ -1,3 +1,6 @@
 # PIC24FJ128GA306
 PIC24FJ128GA306 FreeRTOS Template 
-test
+
+# DATASHEET : 
+https://ww1.microchip.com/downloads/en/DeviceDoc/30009996g.pdf
+
